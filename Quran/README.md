@@ -1,4 +1,4 @@
-NLP Tools and Resources for Analysis of Holy Quran
+NLP Tools and Resources for Analysis of Quranic Data
 ========
 
 In this repository you may find the related resources are using in the multi-lingual Quranic search system (still in progress) including:
